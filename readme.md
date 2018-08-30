@@ -1,1 +1,0 @@
-Nowcoder BAT algorithm course.
